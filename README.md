@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxim from Russia, Moscow.
-- 👀 I’m beginner in FrontEnd Devopment.
+- 👀 I’m beginner in FrontEnd Development.
 - 🌱 I’m currently learning HTML5, CSS3, JS and etc. :)
-- 📫 How to contacn me: 
+- 📫 How to contact me: 
    Telegram: @madixxon
    E-mail: filyukhin.m@gmail.com
 
